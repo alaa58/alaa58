@@ -74,7 +74,7 @@ Always learning, experimenting, and crafting backend solutions that deliver valu
 
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alaa-ragab-778502221)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alaragab19@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=alaragab19@gmail.com)
 
 ---
 ⭐ From [Alaa Ragab](https://github.com/alaa58)
